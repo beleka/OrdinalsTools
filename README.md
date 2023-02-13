@@ -8,7 +8,7 @@ OrdinalsDirectory Twitter: https://twitter.com/OrdDirectory
 
 OrdinalsDirectory Discord: https://discord.gg/t7AEzHua3Y
 
-The idea is to check if your inscription is legit and it belongs to any collection. You can search your ID 
+The idea is to check if your inscription is legit and it belongs to any collection. You can search your Inscription hash 
 and check if it's associated to any collection or it's a fake inscription using [a relative link](OrdinalsDirectoryIndex.md).
 
 One you checked the collection you have that collection with images in https://ordinalsdirectory.com.
