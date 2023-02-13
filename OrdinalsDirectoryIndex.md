@@ -4,7 +4,7 @@ OrdinalsDirectory Twitter: https://twitter.com/OrdDirectory
 
 OrdinalsDirectory Discord: https://discord.gg/t7AEzHua3Y
 
-Here you can search your ID and check if it's associated to any collection or it's a fake inscription. Disclaimer: I have not checked any info and everything is scrapped from OrdinalsDirectory
+Here you can search your inscription hash (ID) and check if it's associated to any collection or it's a fake inscription. Disclaimer: I have not checked any info and everything is scrapped from OrdinalsDirectory
 
 |ORDINAL-CUBES|
 | :--- |
